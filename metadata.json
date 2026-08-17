@@ -1,0 +1,6 @@
+{
+  "name": "ORAX PROJET",
+  "description": "Plateforme moderne de partage, découverte et téléchargement de projets informatiques et logiciels, développée par LORD DEMON.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
